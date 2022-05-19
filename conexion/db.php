@@ -7,6 +7,7 @@ class claseBD {
     private $pass       = 'Bielito1234';
     private $bd         = 'u540256914_projectebmxbo';
     private $con;
+    private $da;
 
     // se carga en el constructor la conexión
     function __construct() {
