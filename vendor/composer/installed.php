@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'edc8bf1b82f2bea0f3e1512aca03bf852d166bea',
+        'reference' => '68a73ec669c31d4ffd8c5afc23c204717f76d46c',
         'name' => '__root__',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'edc8bf1b82f2bea0f3e1512aca03bf852d166bea',
+            'reference' => '68a73ec669c31d4ffd8c5afc23c204717f76d46c',
             'dev_requirement' => false,
         ),
         'alrik11es/cowsayphp' => array(
