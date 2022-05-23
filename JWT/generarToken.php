@@ -1,10 +1,10 @@
 <?php
-require_once '../../jwt/src/BeforeValidException.php';
-require_once '../../jwt/src/ExpiredException.php';
-require_once '../../jwt/src/SignatureInvalidException.php';
-require_once '../../jwt/src/JWT.php';
-require_once '../../jwt/src/JWK.php';
-require_once '../../jwt/src/Key.php';
+require_once 'src/BeforeValidException.php';
+require_once '.src/ExpiredException.php';
+require_once 'src/SignatureInvalidException.php';
+require_once 'src/JWT.php';
+require_once 'src/JWK.php';
+require_once 'src/Key.php';
 
 use Firebase\JWT\JWT;
 use Firebase\JWT\Key;
